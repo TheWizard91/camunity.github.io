@@ -1,6 +1,7 @@
-import logo from './logo.svg';
+import logo from '../src/emmanuel.jpg';
 import './App.css';
 
+// const logo=require("./emmanuel.jpg") 
 function App() {
   return (
     <div className="App">
